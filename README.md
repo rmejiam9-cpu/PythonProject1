@@ -1,4 +1,4 @@
-# PythonProject1
+# RUDY MEJIA LISTA CIRCULAR, TAREA
 ///LISTA CIRCULAR RUDY MEJIA 
 class Nodo:
     def __init__(self, consumo):
